@@ -1,0 +1,5 @@
+data is in two places :
+* props : properties pass the data to child component
+		  getinitialstate : set initial state in the top level
+		  getdefaultprops
+* state
